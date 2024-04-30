@@ -1,4 +1,4 @@
-# Event-Sphere-
+# Event-Sphere
 ![image](https://github.com/Kaushal061123/Event-Sphere-/assets/101547296/fc976aa1-a70c-4a06-b906-5f02cc1cc875)
 
 **Event Sphere is an event management application designed to simplify task organization and scheduling.**
